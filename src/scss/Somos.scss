@@ -1,0 +1,15 @@
+.mainBorder {
+    position: relative;
+   img{
+       position: absolute;
+   }
+    .border {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        border: 7px solid;
+        top: 5%;
+        left: 2%; 
+        z-index: 1;       
+    }
+}
